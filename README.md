@@ -1,5 +1,4 @@
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=reema-siddiqi" alt="reema-siddiqi" /> </h3>
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">
 I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Reema Siddiqi</a> 
 </h1>
