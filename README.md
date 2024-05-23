@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66141195/218668081-bb444285-0ae1-4bca-9d89-bbe9ff1c40cb.gif" alt="my banner"></a>
-</p>
-
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=reema-siddiqi" alt="reema-siddiqi" /> </h3>
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <h1 align="center">
