@@ -19,8 +19,8 @@ I love the entire process of solving complex business problems leveraging data &
 <a href="https://www.linkedin.com/in/reemasiddiqi12/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Reema | LinkedIn" width="170px"/></a>
 <a href="https://medium.com/@tushar_aggarwal"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Tushar | Medium" width="150px"/></a>
 
- 
-### 💼 Technical Skills
+</br>
+## 💼 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
