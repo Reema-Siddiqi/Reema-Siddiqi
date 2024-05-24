@@ -1,7 +1,7 @@
 <h2 ![Header](./your-header-image-name.png)/> </h2>
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=reema-siddiqi" alt="reema-siddiqi" /> </h3>
 <h1 align="center">
-I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Reema Siddiqi</a> 
+I'm Reema Siddiqi</a> 
 </h1>
 
 <h2 align="center">
