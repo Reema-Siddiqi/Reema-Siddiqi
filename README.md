@@ -16,7 +16,7 @@ I love the entire process of solving complex business problems leveraging data &
 <a href="https://medium.com/@reema.sidd"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Reema | Medium" width="150px"/></a>
 
 
-#### 💼 Technical Skills
+## 💼 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
