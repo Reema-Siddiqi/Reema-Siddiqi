@@ -8,7 +8,7 @@ I'm Reema Siddiqi</a>
 A data-driven IT professional specializing in transforming data, BI dashboard reporting, forecasting and optimization. </br> Tools- Tableau, Power BI, Cognos, Qlik
 </h2> 
 
-I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases Data Analytics projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering impactful solutions.
+I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases Data Analytics projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating interactive dashboards for data visualization, I am dedicated to delivering impactful solutions.
 
 ### Connect with me 
 
