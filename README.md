@@ -10,7 +10,7 @@ A data-driven IT professional specializing in transforming data, BI dashboard re
 
 I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases Data Analytics projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating interactive dashboards for data visualization, I am dedicated to delivering impactful solutions.
 
-More about me:
+More about me:<br>
 -5 years of experience in Data Analytics
 -Hands-on Experience on Business Intelligence tools
 -Proficient in Languages- SQL and Python
