@@ -10,6 +10,11 @@ A data-driven IT professional specializing in transforming data, BI dashboard re
 
 I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases Data Analytics projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating interactive dashboards for data visualization, I am dedicated to delivering impactful solutions.
 
+More about me:
+-5 years of experience in Data Analytics
+-Hands-on Experience on Business Intelligence tools
+-Proficient in Languages- SQL and Python
+
 ### Connect with me 
 
 <a href="https://www.linkedin.com/in/reemasiddiqi12/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Reema | LinkedIn" width="170px"/></a>
