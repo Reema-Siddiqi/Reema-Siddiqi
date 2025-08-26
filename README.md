@@ -17,7 +17,7 @@ More about me:<br>
 
 ### Connect with me 
 
-<a href="https://www.linkedin.com/in/reemasiddiqi12/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Reema | LinkedIn" width="170px"/></a>
+<a href="https://www.linkedin.com/in/reema1045/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Reema | LinkedIn" width="170px"/></a>
 <a href="https://medium.com/@reema.sidd"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Reema | Medium" width="160px" /></a>
 <br><br>
 
